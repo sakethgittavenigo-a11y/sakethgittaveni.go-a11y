@@ -21,4 +21,4 @@ Senior Data Engineer with 9+ years of experience building scalable data pipeline
 
 ## 📫 Contact
 - Email: sakethyadav07@gmail.com
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: https://www.linkedin.com/in/gittaveni-saketh-4a4172235/
